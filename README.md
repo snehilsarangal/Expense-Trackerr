@@ -1,4 +1,4 @@
 # Expense-Tracker
 
 
-live link -> https:/shorturl.at/cefFN
+live link -> shorturl.at/cefFN
